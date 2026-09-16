@@ -1,4 +1,4 @@
-# System Monitoring App: AI-Powered DevOps Command Center
+# Self-Healing IaaS Platform
 
 <div align="center">
     <img src="dashboard.png" alt="System Monitoring App Dashboard" width="100%">
